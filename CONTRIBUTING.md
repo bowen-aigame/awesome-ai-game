@@ -17,12 +17,12 @@ Before submitting, make sure your entry meets **all** of these criteria:
 Follow the existing style exactly:
 
 ```markdown
-- [Name](https://link/) 🔥🆓 - One-sentence description ending with a period.
+- [Name](https://link/) 🔥🔥 - One-sentence description ending with a period.
 ```
 
 - **Link** to the official website, Steam page, or GitHub repository — not a review or news article.
 - **Description** is one sentence, in English, sentence case, ending with a period. Describe what makes it interesting; don't paste marketing copy.
-- **Badges** (optional, in this order): 🔥 trending · 🆓 free · 💰 paid · 🧪 beta/research · 📜 open source.
+- **Hotness rating**: 🔥 worth playing · 🔥🔥 hot right now · 🔥🔥🔥 viral phenomenon. Be conservative — three flames are earned by millions of players or mainstream coverage, not enthusiasm.
 - Add the entry to the **correct category**, preserving the existing ordering convention of the section.
 - One entry per pull request unless entries are closely related.
 
