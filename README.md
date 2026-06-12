@@ -4,7 +4,7 @@
 
 # Awesome AI Game [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-**A curated list of the hottest AI-powered games, playable world models, game-playing agents, and AI game development tools.**
+**A curated list of the hottest AI-powered games — AI-native gameplay, playable world models, and landmark game AI.**
 
 *Games where artificial intelligence is not a buzzword — it is the gameplay.*
 
@@ -29,17 +29,9 @@ AI is transforming games from static, hand-authored experiences into living syst
   - [AI Party & Social Games](#ai-party--social-games)
   - [Sandbox & Simulation](#sandbox--simulation)
 - [Neural Game Engines & Playable World Models](#neural-game-engines--playable-world-models)
-- [AI Agents That Play Games](#ai-agents-that-play-games)
+- [Games Built Entirely by AI](#games-built-entirely-by-ai)
 - [Hall of Fame: Landmark Game AI](#hall-of-fame-landmark-game-ai)
 - [Milestones: When AI Beat the Game](#milestones-when-ai-beat-the-game)
-- [Building Games with AI](#building-games-with-ai)
-  - [Games Built Entirely by AI](#games-built-entirely-by-ai)
-  - [AI Game Creation Platforms](#ai-game-creation-platforms)
-  - [NPC & Dialogue Middleware](#npc--dialogue-middleware)
-  - [Asset Generation](#asset-generation)
-- [Open Source Projects](#open-source-projects)
-- [Research & Papers](#research--papers)
-- [Communities & Resources](#communities--resources)
 - [Contributing](#contributing)
 
 ## Hot Top 10 AI Games
@@ -99,7 +91,6 @@ Living worlds populated by autonomous agents with goals, memories, and social li
 
 - [AI People](https://www.goodai.com/) 🧪 - Life-simulation sandbox by GoodAI where every character is an LLM-driven agent that perceives, remembers, and schemes.
 - [AI Town](https://github.com/a16z-infra/ai-town) 🆓📜 - A deployable virtual town where AI characters live, chat, and socialize — a production-ready take on the "Smallville" generative agents paper. By a16z infra.
-- [Voyager](https://github.com/MineDojo/Voyager) 📜 - An LLM-powered lifelong learning agent that autonomously explores Minecraft, writes its own skill code, and never stops improving.
 
 ## Neural Game Engines & Playable World Models
 
@@ -112,15 +103,11 @@ No game engine, no hand-written rules — every frame is dreamed up by a neural 
 - [WHAMM](https://www.microsoft.com/en-us/research/articles/whamm-real-time-world-modelling-of-interactive-environments/) 🧪 - Microsoft's real-time follow-up to WHAM: an interactive, playable simulation of Quake II inside a generative model.
 - [GameNGen](https://gamengen.github.io/) 🧪 - The research that started the wave: a diffusion model running DOOM at 20+ FPS with no game engine. By Google Research.
 
-## AI Agents That Play Games
+## Games Built Entirely by AI
 
-Watch frontier models play — and study how they reason.
+Complete, playable games where an AI agent did the engineering — planning, coding, testing, and shipping.
 
-- [SIMA](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) - DeepMind's generalist agent that follows natural-language instructions across many commercial 3D games, from No Man's Sky to Goat Simulator 3.
-- [Claude Plays Pokémon](https://www.twitch.tv/claudeplayspokemon) 🔥 - A live benchmark-as-entertainment: Anthropic's Claude reasoning its way through Pokémon Red, one badge at a time.
-- [Cradle](https://baai-agents.github.io/Cradle/) 📜 - A general computer-control agent framework that plays AAA titles like Red Dead Redemption 2 through screenshots, keyboard, and mouse alone.
-- [MineDojo](https://minedojo.org/) 📜 - Open-ended agent research platform built on Minecraft, with internet-scale multimodal knowledge for training embodied agents. NeurIPS 2022 Outstanding Paper.
-- [ARC Prize / ARC-AGI](https://arcprize.org/) - The puzzle benchmark that resists brute force — abstract reasoning games designed to measure genuine fluid intelligence in machines.
+- [Red Alert 2: Web Edition](https://sanwan.ai/articles/red-alert-fable.html) 🔥🆓 - A browser-playable real-time strategy homage to Red Alert 2, autonomously planned, built, tested (145 tests), and deployed end-to-end by Claude Fable 5 with no human intervention — [play it in your browser](https://peaceful-wave-530.fly.dev/).
 
 ## Hall of Fame: Landmark Game AI
 
@@ -144,84 +131,11 @@ The matches that made history.
 - [Gran Turismo Sophy](https://www.gran-turismo.com/us/gran-turismo-sophy/) - 2022 - Out-raced the world's best Gran Turismo drivers, then shipped inside the retail game.
 - [CICERO](https://ai.meta.com/research/cicero/) - 2022 - Meta's agent achieved human-level play in Diplomacy by negotiating with humans in natural language — and not getting caught.
 
-## Building Games with AI
-
-### Games Built Entirely by AI
-
-Complete, playable games where an AI agent did the engineering — planning, coding, testing, and shipping.
-
-- [Red Alert 2: Web Edition](https://sanwan.ai/articles/red-alert-fable.html) 🔥🆓 - A browser-playable real-time strategy homage to Red Alert 2, autonomously planned, built, tested (145 tests), and deployed end-to-end by Claude Fable 5 with no human intervention — [play it in your browser](https://peaceful-wave-530.fly.dev/).
-
-### AI Game Creation Platforms
-
-From prompt to playable.
-
-- [Rosebud AI](https://rosebud.ai/) 🔥 - Vibe-code complete 2D/3D games from text descriptions; an AI assistant generates the code, assets, and logic.
-- [Websim](https://websim.com/) 🆓 - Hallucinate entire interactive websites and browser games from a prompt; a playground for generative interactive media.
-- [Ludo.ai](https://ludo.ai/) - AI research and ideation copilot for game studios: concept generation, market analysis, and trend tracking.
-- [Unity AI](https://unity.com/products/ai) - Unity's integrated AI suite: in-editor assistants, generative texturing/animation, and on-device model inference via Sentis.
-- [Roblox Cube & Studio AI](https://create.roblox.com/) - Generative 3D creation inside the world's largest UGC game platform, including text-to-3D-model.
-
-### NPC & Dialogue Middleware
-
-Plug living characters into your engine.
-
-- [Inworld AI](https://inworld.ai/) - The most widely adopted character engine: personalities, goals, memory, and sub-200 ms voice for real-time NPCs.
-- [Convai](https://convai.com/) - Conversational AI characters with spatial awareness and actions, with Unity, Unreal, and WebGL plugins.
-- [NVIDIA ACE](https://developer.nvidia.com/ace) - Digital-human microservices for games: speech, face animation, and on-device small language models for NPCs.
-- [Charisma.ai](https://charisma.ai/) - Story-first interactive character platform powering narrative experiences for entertainment IPs.
-
-### Asset Generation
-
-Art, models, voices, and music at the speed of iteration.
-
-- [Scenario](https://www.scenario.com/) - Train custom generative models on your own art style for consistent, production-ready game assets.
-- [Layer AI](https://layer.ai/) - AI asset pipeline for professional game studios with style-locked generation at scale.
-- [Meshy](https://www.meshy.ai/) - Text-to-3D and image-to-3D model generation with PBR textures, rigging, and animation.
-- [Tripo](https://www.tripo3d.ai/) - Fast, high-fidelity 3D asset generation from text or images.
-- [ElevenLabs](https://elevenlabs.io/) - Industry-leading AI voice synthesis and real-time conversational voice for game characters.
-- [Suno](https://suno.com/) - Generative music creation — adaptive scores and theme songs from a text prompt.
-
-## Open Source Projects
-
-Build your own AI game. 📜
-
-- [Generative Agents](https://github.com/joonspk-research/generative_agents) - Stanford's "Smallville": the seminal codebase for believable LLM agents with memory, reflection, and planning.
-- [AI Town](https://github.com/a16z-infra/ai-town) - MIT-licensed starter kit for hosting your own AI agent village (JavaScript/Convex).
-- [Voyager](https://github.com/MineDojo/Voyager) - LLM-powered embodied agent for open-ended skill discovery in Minecraft.
-- [Mindcraft](https://github.com/kolbytn/mindcraft) - Crafting LLM-driven Minecraft bots that build, fight, and collaborate via natural language.
-- [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Framework for turning any game into an experimentation sandbox for machine learning agents.
-- [Griptape of Halt / TextWorld](https://github.com/microsoft/TextWorld) - Microsoft's learning environment for training RL agents on text-based games.
-- [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) - Standard API for multi-agent reinforcement learning environments, including classic and Atari games.
-- [Godot LLM](https://github.com/Adriankhl/godot-llm) - Run local LLMs (text, embeddings, multimodal) directly inside the Godot engine.
-
-## Research & Papers
-
-The science behind playable AI.
-
-- [Genie 3: A New Frontier for World Models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/) - DeepMind, 2025 - Real-time interactive 3D world generation from text at 24 FPS.
-- [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837) - Google, 2024 - GameNGen: running DOOM entirely inside a diffusion model.
-- [World and Human Action Models towards Gameplay Ideation](https://www.nature.com/articles/s41586-025-08600-3) - Microsoft, Nature 2025 - The WHAM/Muse paper.
-- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442) - Stanford/Google, 2023 - The Smallville paper that launched a thousand agent sims.
-- [Voyager: An Open-Ended Embodied Agent with LLMs](https://arxiv.org/abs/2305.16291) - NVIDIA et al., 2023 - Lifelong skill learning in Minecraft.
-- [Human-Level Play in Diplomacy by Combining Language Models with Strategic Reasoning](https://www.science.org/doi/10.1126/science.ade9097) - Meta, Science 2022 - CICERO.
-- [Outracing Champion Gran Turismo Drivers with Deep RL](https://www.nature.com/articles/s41586-021-04357-7) - Sony AI, Nature 2022 - GT Sophy.
-- [Grandmaster Level in StarCraft II Using Multi-Agent RL](https://www.nature.com/articles/s41586-019-1724-z) - DeepMind, Nature 2019 - AlphaStar.
-
-## Communities & Resources
-
-- [AI and Games](https://www.aiandgames.com/) - The long-running YouTube channel and newsletter by Dr. Tommy Thompson on AI in game development.
-- [Game AI Pro](http://www.gameaipro.com/) - Free professional book series on game AI techniques, from pathfinding to planners.
-- [r/aigamedev](https://www.reddit.com/r/aigamedev/) - Reddit community for developers building games with generative AI.
-- [machinations.io Blog](https://machinations.io/blog) - Game systems design and AI-assisted balancing.
-- [IEEE Conference on Games](https://ieee-cog.org/) - The premier academic conference on AI and games.
-- [Steam — AI Disclosure Games](https://store.steampowered.com/search/?tags=-1&category1=998) - Steam now requires AI usage disclosure; thousands of titles document how they use it.
-
 ## Contributing
 
-Contributions are welcome and appreciated! Found a hot new AI game or tool? Please read the [contribution guidelines](CONTRIBUTING.md) first, then open a pull request.
+Contributions are welcome and appreciated! Found a hot new AI game? Please read the [contribution guidelines](CONTRIBUTING.md) first, then open a pull request.
 
-Quality bar: entries must be **playable or usable today** (or a public research demo), **actively maintained**, and use AI as a **core feature** — not marketing garnish.
+Quality bar: entries must be **playable today** (or a public research demo), **actively maintained**, and use AI as a **core game mechanic** — not marketing garnish. Development tools are out of scope; this list is games only.
 
 ## License
 

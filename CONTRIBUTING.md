@@ -6,10 +6,11 @@ Thank you for helping make this the best resource for AI games on the internet! 
 
 Before submitting, make sure your entry meets **all** of these criteria:
 
-1. **AI is core, not garnish.** The game or tool must use AI (LLMs, world models, generative systems, or landmark game AI) as a central mechanic or capability — not just "we used AI to make some icons."
-2. **Available today.** It must be playable, usable, or a public research demo. No vaporware, waitlist-only landing pages, or announced-but-unreleased titles.
-3. **Actively maintained.** Abandoned projects (no updates in 18+ months, dead links, shut-down servers) don't qualify, unless listed under *Hall of Fame* or *Milestones* for historical significance.
-4. **Notable.** It should have meaningful traction, press coverage, an award, or genuine technical novelty.
+1. **Games only.** This list curates playable AI games — development tools, middleware, asset generators, and frameworks are out of scope.
+2. **AI is core, not garnish.** The game must use AI (LLMs, world models, generative systems, or landmark game AI) as a central mechanic — not just "we used AI to make some icons."
+3. **Available today.** It must be playable or a public research demo. No vaporware, waitlist-only landing pages, or announced-but-unreleased titles.
+4. **Actively maintained.** Abandoned projects (no updates in 18+ months, dead links, shut-down servers) don't qualify, unless listed under *Hall of Fame* or *Milestones* for historical significance.
+5. **Notable.** It should have meaningful traction, press coverage, an award, or genuine technical novelty.
 
 ## Entry Format
 
