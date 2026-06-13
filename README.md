@@ -41,10 +41,10 @@ Talk your way through the game. Every character listens, remembers, and answers 
 | 🥉 | [EmemeTown](https://store.steampowered.com/app/2667830/EmemeTown/) | 🔥🔥 | A life-sim town of LLM-driven neighbors with real memories, schedules, and shifting loyalties — relationship-building *is* the progression. |
 | 4 | [Wanderfolk](https://wanderfolk.ai/) | 🔥 | An RPG where every NPC has AI-generated dialogue, persistent memory, a reputation system, and a gossip network that spreads what you do. |
 | 5 | [Vaudeville](https://store.steampowered.com/app/2240920/Vaudeville/) | 🔥 | A noir detective game where you interrogate fully AI-voiced characters with unscripted dialogue to crack the case. |
-| 6 | [Dead Meat](https://store.steampowered.com/app/2007010/Dead_Meat/) | 🔥 | An AI murder-mystery interrogation: question a suspect who lies, cracks, and confesses dynamically based on what you ask. |
-| 7 | [Retail Mage](https://www.jamandtea.studio/) | 🔥 | A cozy improv-comedy RPG in a magical furniture store, where AI improvises around whatever chaos you type. |
-| 8 | [Mindwarp: AI Detective](https://store.steampowered.com/app/3305870/) | 🔥 | AI-generated cases, suspects, voices, and personalities — a near-endless supply of fresh whodunits to interrogate. |
-| 9 | [AI Interrogation Simulator](https://store.steampowered.com/app/3318870/AI_Interrogation_Simulator/) | 🔥 | Play the investigator and break AI suspects' stories through skillful, free-form questioning. |
+| 6 | [Dead Meat](https://store.steampowered.com/app/2628740/Dead_Meat/) | 🔥 | An AI murder-mystery interrogation: question 15+ suspects by voice or text — they lie, crack, and confess based on what you ask. |
+| 7 | [Talk to Me Human](https://store.steampowered.com/app/3203160/Talk_to_Me_Human/) | 🔥 | A talk-your-way-out adventure where you lie, flatter, and coerce AI NPCs through everyday conversations using your own words. |
+| 8 | [Retail Mage](https://www.jamandtea.studio/) | 🔥 | A cozy improv-comedy RPG in a magical furniture store, where AI improvises around whatever chaos you type. |
+| 9 | [Mindwarp: Island Detective](https://store.steampowered.com/app/3305870/) | 🔥 | AI-generated cases, suspects, voices, and personalities — a near-endless supply of fresh whodunits to interrogate. |
 | 10 | [Mantella](https://art-from-the-machine.github.io/Mantella/) | 🔥 | The landmark mod that gives every NPC in Skyrim and Fallout 4 a real AI voice, memory, and unscripted conversation. |
 
 ## AI Storytelling & Roleplay
@@ -55,14 +55,14 @@ Infinite narratives generated as you play. The dungeon master is a language mode
 |:-:|------|:-------:|---------|
 | 🥇 | [AI Dungeon](https://aidungeon.com/) | 🔥🔥🔥 | The pioneer of AI interactive fiction: limitless, player-steered adventures in any genre imaginable. By Latitude. |
 | 🥈 | [Friends & Fables](https://fables.gg/) | 🔥🔥 | An AI Game Master running D&D 5e-style campaigns with tactical battlemaps, persistent worlds, image generation, and multiplayer parties. |
-| 🥉 | [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/) | 🔥🔥 | The first Steam RPG with entirely LLM-generated entities, crafting recipes, combat outcomes, and AI-illustrated scenes. |
-| 4 | [Character.AI](https://character.ai/) | 🔥🔥 | The most popular place to roleplay with AI characters — millions of community-made personalities to play scenes with. |
-| 5 | [1001 Nights](https://www.1001nights.ai/) | 🔥 | Award-winning AI-native game: play Scheherazade, weave tales with an AI king, and turn your story's words into real weapons. |
-| 6 | [Hidden Door](https://www.hiddendoor.co/) | 🔥 | Turns books and fictional worlds into social roleplaying adventures, co-authored live with an AI narrator. |
-| 7 | [LoreKeeper](https://lore-keeper.com/) | 🔥 | An AI dungeon master backed by a real server-side D&D 5e rules engine — actual dice, initiative, conditions, and spells. |
-| 8 | [Infinite Worlds](https://infiniteworlds.app/) | 🔥 | Choose-your-own-adventure stories with persistent state, AI-generated art, and worlds shared by a creator community. |
+| 🥉 | [Character.AI](https://character.ai/) | 🔥🔥 | The most popular place to roleplay with AI characters — millions of community-made personalities to play scenes with. |
+| 4 | [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/) | 🔥🔥 | The first Steam RPG with entirely LLM-generated entities, crafting recipes, combat outcomes, and AI-illustrated scenes. |
+| 5 | [Talkie](https://www.talkie-ai.com/) | 🔥🔥 | A huge library of voiced AI characters to roleplay with, plus tools to build your own and play out story scenes. |
+| 6 | [1001 Nights](https://www.1001nights.ai/) | 🔥 | Award-winning AI-native game: play Scheherazade, weave tales with an AI king, and turn your story's words into real weapons. |
+| 7 | [Hidden Door](https://www.hiddendoor.co/) | 🔥 | Turns books and fictional worlds into social roleplaying adventures, co-authored live with an AI narrator. |
+| 8 | [LoreKeeper](https://lore-keeper.com/) | 🔥 | An AI dungeon master backed by a real server-side D&D 5e rules engine — actual dice, initiative, conditions, and spells. |
 | 9 | [NovelAI](https://novelai.net/) | 🔥 | Storyteller-grade AI writing and roleplay with deep, fine-grained control over tone, characters, and world. |
-| 10 | [Latitude Eon](https://latitude.io/) | 🔥 | Collaborative, multiplayer AI storytelling from the creators of AI Dungeon — shared worlds you build together. |
+| 10 | [Chai](https://www.chai-research.com/) | 🔥 | A swipe-to-discover platform of community-made AI characters for quick, pick-up-and-play narrative roleplay. |
 
 ## AI Sandbox, Party & Living Worlds
 
@@ -73,8 +73,8 @@ Worlds generated and inhabited by AI, and AI as the party host — explore neura
 | 🥇 | [Oasis](https://decart.ai/) | 🔥🔥🔥 | The first playable, real-time AI-generated open world: a Minecraft-like game where every frame is rendered by a neural network — no game engine at all. By Decart. |
 | 🥈 | [Infinite Craft](https://neal.fun/infinite-craft/) | 🔥🔥🔥 | Combine elements to discover an unbounded, LLM-generated crafting tree. Start with four elements; end up with philosophers, memes, and gods. By Neal Agarwal. |
 | 🥉 | [Death by AI](https://deathbyai.gg/) | 🔥🔥🔥 | A free party-survival hit where an AI judges whether your plan survives deadly scenarios. Up to 10 players; millions reached. |
-| 4 | [Player2](https://player2.game/) | 🔥 | A platform of AI-powered multiplayer party games and companions, including AI-driven social deduction. |
-| 5 | [TextGame.ai](https://textgame.ai/) | 🔥 | An AI Game Master that runs Werewolf, trivia, and Codenames with no host setup — and fills empty seats with AI players. |
+| 4 | [Doodle Duel](https://doodleduel.ai/) | 🔥 | A real-time drawing party game for 2–30 players where everyone draws the same prompt and an AI judge ranks the results. |
+| 5 | [Player2](https://player2.game/) | 🔥 | A platform of AI-powered multiplayer party games and companions, including AI-driven social deduction. |
 | 6 | [AI People](https://www.goodai.com/) | 🔥 | A life-simulation sandbox by GoodAI where every character is an LLM-driven agent that perceives, remembers, and schemes. |
 | 7 | [AI Town](https://github.com/a16z-infra/ai-town) | 🔥 | A deployable virtual town of generative agents who live, talk, and form relationships on their own — watch it or join in. |
 | 8 | [Generative Agents (Smallville)](https://github.com/joonspk-research/generative_agents) | 🔥 | The landmark 25-agent sandbox that kicked off the AI-society genre — agents plan parties, gossip, and run for office. |
@@ -87,15 +87,15 @@ The big titles bringing live AI characters into games you already know — shipp
 
 | # | Game | Hotness | Verdict |
 |:-:|------|:-------:|---------|
-| 🥇 | [inZOI](https://inzoi.krafton.com/) | 🔥🔥 | KRAFTON's Sims-rival, the first major game to ship AI "Co-Playable Characters": Smart Zois that think and act on their own via NVIDIA ACE. |
+| 🥇 | [inZOI](https://playinzoi.com/) | 🔥🔥 | KRAFTON's Sims-rival, the first major game to ship AI "Co-Playable Characters": Smart Zois that think and act on their own via NVIDIA ACE. |
 | 🥈 | [PUBG Ally](https://www.krafton.com/en/news/press/krafton-reveals-playtest-plans-for-pubg-ally-built-with-nvidia-ace/) | 🔥🔥 | An AI squadmate for PUBG that listens to voice commands, loots, drives, and fights like a real teammate. Powered by NVIDIA ACE. |
 | 🥉 | [NARAKA: Bladepoint](https://www.narakathegame.com/) | 🔥 | Adds an ACE-powered AI teammate that fights alongside you, finds loot, trades gear, and advises on builds. |
-| 4 | [Mecha BREAK](https://www.mechabreak.com/) | 🔥 | One of the first games to ship an on-device small language model — chat naturally with your mechanic about objectives and loadouts. |
+| 4 | [Mecha BREAK](https://mechabreak.seasungames.com/) | 🔥 | One of the first games to ship an on-device small language model — chat naturally with your mechanic about objectives and loadouts. |
 | 5 | [Fate Trigger](https://store.steampowered.com/app/3092530/Fate_Trigger/) | 🔥 | An anime hero-shooter using NVIDIA ACE Audio2Face for real-time facial animation and lip-sync on all dialogue. |
 | 6 | [MIR5](https://wccftech.com/nvidia-ace-to-power-dynamic-ai-characters-companions-and-bosses-in-pubg-naraka-bladepoint-inzoi-and-mir5/) | 🔥 | An MMO featuring an adaptive AI raid boss that learns from your guild's tactics and changes its strategy mid-fight. |
-| 7 | [Skyrim + Mantella](https://art-from-the-machine.github.io/Mantella/) | 🔥 | The most popular AI-NPC mod: give every character in Skyrim a voice, memory, and unscripted conversation. |
-| 8 | [Fallout 4 + Mantella](https://art-from-the-machine.github.io/Mantella/) | 🔥 | The same AI-conversation mod, bringing living, talking NPCs to the Commonwealth. |
-| 9 | [Skyrim + Herika (CHIM)](https://github.com/bAaDmtl/HerikaServer) | 🔥 | An AI companion mod that turns a follower into a context-aware partner who comments on the world around you. |
+| 7 | [Black Vultures: Prey of Greed](https://store.steampowered.com/app/3622280/) | 🔥 | A tactical FPS whose ACE-powered "Viper" AI gear reads the battlefield in real time and talks you through tactics and routes. |
+| 8 | [Skyrim + Mantella](https://art-from-the-machine.github.io/Mantella/) | 🔥 | The most popular AI-NPC mod: give every character in Skyrim a voice, memory, and unscripted conversation. |
+| 9 | [Fallout 4 + Mantella](https://art-from-the-machine.github.io/Mantella/) | 🔥 | The same AI-conversation mod, bringing living, talking NPCs to the Commonwealth. |
 | 10 | [Minecraft + Player2](https://player2.game/) | 🔥 | Drop AI-driven NPCs and companions into Minecraft that chat, follow, and help you build. |
 
 ## Contributing
