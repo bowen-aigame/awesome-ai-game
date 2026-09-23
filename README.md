@@ -80,6 +80,7 @@ AI-driven worlds and societies you can live in — sandbox builders, life-sims f
 | 8 | [Life of an NPC](https://store.steampowered.com/app/3489080/Life_of_an_NPC/) | 🔥 | A top-down town sim where every AI NPC sets its own goals and reacts, on its own, to events and to the other characters around it. |
 | 9 | [Survival Of Runt](https://store.steampowered.com/app/2500500/Survival_Of_Runt/) | 🔥 | A post-apocalyptic survival game where AI-powered NPCs talk and take orders, reacting in real time to whatever you say and do. |
 | 10 | [CLUAIDO](https://store.steampowered.com/app/2919500/CLUAIDO/) | 🔥 | A procedural whodunit where every suspect is an AI character — interrogate them freely and name the killer before the gas zone closes in. |
+| 11 | [lifeworld](https://github.com/jajmangold/lifeworld) | 🔥 | Autonomous NPCs that perceive simulated worlds, decide via LLM, remember in Neo4j, and get rendered cinematically. |
 
 ## AI NPCs in Mainstream Games
 
