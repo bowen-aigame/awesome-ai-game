@@ -46,6 +46,7 @@ Talk your way through the game. Every character listens, remembers, and answers 
 | 8 | [Murder Mystery Mayhem AI](https://store.steampowered.com/app/3220670/Murder_Mystery_Mayhem_AI/) | 🔥 | A 1920s whodunit where you freely interrogate a cast of AI suspects in real time to expose the killer. |
 | 9 | [Verbal Verdict](https://store.steampowered.com/app/2778780/Verbal_Verdict/) | 🔥 | A 1950s Brooklyn detective game running a local LLM — grill suspects with any question you can type. |
 | 10 | [AI2U: With You 'Til The End](https://store.steampowered.com/app/2880730/AI2U_With_You_Til_The_End/) | 🔥 | A yandere romance-horror where you must talk your way out of an obsessive AI companion's grip — every reply is unscripted LLM dialogue. |
+| [AI Group Call](https://aigroupcall.app) | An AI council you can talk to: a group voice call where agents riff with each other, answer when named, and yield when you speak. | - | - |
 
 ## AI Storytelling & Roleplay
 
