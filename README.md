@@ -64,6 +64,7 @@ Infinite narratives generated as you play. The dungeon master is a language mode
 | 9 | [Hidden Door](https://www.hiddendoor.co/) | 🔥 | Play social roleplaying adventures set inside books and fictional worlds, co-authored live with an AI narrator. |
 | 10 | [LoreKeeper](https://lore-keeper.com/) | 🔥 | An AI dungeon master backed by a real server-side D&D 5e rules engine — actual dice, initiative, conditions, and spells. |
 
+| 11 | [Metaware](https://ofirgeller.com/) | 🔥 | Metaware is an RPG with an AI game master, in a world written by people and narrated by AI. |
 ## AI Sandbox, Simulation & Party Games
 
 AI-driven worlds and societies you can live in — sandbox builders, life-sims full of autonomous LLM characters, and party games hosted by an AI. *(Ranked by hotness; updated June 2026.)*
